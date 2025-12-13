@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "徘徊",
+  "base_artist": "AKASAKI",
+  "createdAt": "2025-12-13T10:09:27.072895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "徘徊",
+      "artist": "黄家强",
+      "has_synced": false,
+      "path": "select/01_徘徊_黄家强.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "徘徊 (Slowed Down) - HAIKAI (Slowed Down)",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/02_徘徊_(Slowed_Down)_-_HAIKAI_(Slowed_Down)_AKASAKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "徘徊",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/03_徘徊_AKASAKI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "徘徊 - HAIKAI",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/04_徘徊_-_HAIKAI_AKASAKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "徘徊",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_徘徊_AKASAKI.txt"
+    }
+  ]
+}
